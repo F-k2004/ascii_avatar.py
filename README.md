@@ -1,5 +1,5 @@
 # ascii_avatar.py
-import pyfiglet
+import pyfigle
 
 def main():
     print("🎨 سازنده آواتار ASCII 🎨")
